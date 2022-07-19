@@ -1,21 +1,25 @@
 {
   "version": "0.0.1",
   "manifestVersion": "0.1.0",
-  "name": "Codytheme",
-  "description": "Codytheme",
+  "name": "codytheme",
+  "description": "codytheme",
   "author": {
-    "name": "Codytheme",
-    "email": "Codytheme@null.com",
-    "url": "https://127.0.0.1:8089"
+    "name": "codytheme",
+    "email": "jtrijueque@codisys.es",
+    "url": "https://codisyss.sharepoint.com/"
   },
   "resources": {
-    "css": "BB3O24r+LJ1B8qcjpvqgTcVaR/NQ71iC3zPxE1Dl1yIQTSUN8BfuHgiSK5ijJcqpSj/xWh6Ge9xC3Gqzr+n5DKpPA/2u7wj3L1/+Ug0Z4K80WPE/FR12thmPnEvq2OHVaplm4Ky2DJ/zYMoIVtHvGiVgp1I0lIUHdayqWW2+To5txp3sZXbhhJZDQN/neUHX9hgo/xO7ip72dWHAKGxNKTQC5ncKgOBCVdREaqQLY3PCBdrbVv6WOopzRTMhmOyKZG7pZnBTRFE+D5c99B22hFsyeu1MmmSnOGz2G5X+S0TA1jyMacbjSLCi9bO58Gc7/X9uMPCfl6JXppSf8QPA8g=="
+    "css": "WrtSZnNA8YX0iHQeXc3YYft6447+tlYKpKfikePwSUuiiaP3uQOUL2QnKoBBo7Cx1vdLBkVkRtkaHB2wRJbmIW5UNpP9DYbK4q94GvW1tUPcaH7V7E+dXyr1cyilDd4/hh4lROJKrQRjgy+LSMikTnzvVfpmrQXyGUrcdEylNjufOFeJ6hTmtXN/l2IvMSfsFotGOhRW5PtbnY136QtVQGobYDeMIv1m2eH+pwsqmzblZ8WGC5YZnC4UF8FK14POGXU0CyymGN+hfcHDmltMdjIQrYHTC7dnwthAV336t4SSd2qMJrAwtRdlVa1ez8z8Z6nyESNNEbBGUCOy5j/R6Q=="
   },
   "license": "MIT",
-  "url": "https://127.0.0.1:8089",
-  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4JHWE6yjQN5eKgTcC+jFfMAGV6+Bzv5IQaQWMZhyfcIgKZycdhiNXFnMf3+C7916EABnTFJUBhpbOCsxVCO5vszobaydCRc1xHXdTy+pbARl1T12n/okvHZy2TOFwHD9I7Zn/NR/RbLkdj4lXldyo5+83SVvK/cVCYhiDR29Pf0+MJCc8KJnWLkkjC6E3QIODb9JAd6np3W/VmTliqd3ohRfvHgMDIyHn1v+LLsW6Mf9225MNOiWGoDc0UnPTJVPn3Wpv30fFdMfCYmTbhqPOB8jKrIKPuOUjmnNaSt1jbG/5NE5wmIuK8+flzjvBGk44H1BT0lqbIaOPKDERij5jQIDAQAB",
+  "url": "https://codisyss.sharepoint.com/",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAteQw9mz1BIoiIW0vLX32G8EV+ldiGwveRwUJ/LqMaMCgmhmG2tUXwha19TBEOijdg+e3tTs8uTHQX2D5Lqg6Bfgf8JaUck01g5pD2iaVd8lTFThuN2q40TrrKgdkfbLcyguWcNf/xAvawvYmxnf1GtrUnRp0+bv1OGYhemqGG8YgpvT3fGCVtZlSTjZyE4SPN5pp/hWOCJYMu9eV5S/1mA+XunZETbF5Xo0H2pAnEzrEpeVeRX+uBilvXGNQhOAn6rbxUB9b/uSzCN6FRwhyXoWbRGLhgwXckeEQ0J7zvIIfir7CfUKA5sbgt/JWEZGFVbOQ0JbQ3O0yvrBaktd6nwIDAQAB",
+  "locale": {
+    "name": "",
+    "title": ""
+  },
   "theme": {
-    "name": "Codytheme",
-    "title": "Codytheme"
+    "name": "codytheme",
+    "title": "codytheme"
   }
 }
