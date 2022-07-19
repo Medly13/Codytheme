@@ -1,0 +1,35 @@
+.th-Codytheme {
+    --background-color: #ffffff;
+    --medium-color: #abb2bf;
+    --text-color: #404552;
+    --action-color: #5294e2;
+    --error-color: #da4453;
+    --mute-percent: 100%;
+    --light-border-color: #d3dae3;
+    --muted-color: #a3a5ac;
+}
+
+.th-Codytheme .open__icons {
+    display: none;
+    }
+
+.th-Codytheme .footer {
+    display: none;
+    }
+
+.th-Codytheme .menu__section.menu__section--scrollable.menu__section--drag {
+    display: none;
+    }
+
+.th-Codytheme .menu__item.menu__item--with-options.menu__item-colors {
+    display: none;
+    --background-color: #000;
+    }
+
+.th-Codytheme .open__settings {
+    display: none;
+    }
+
+.th-Codytheme .open__last {
+    display: none;
+    }

@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "Codytheme",
+  "description": "Codytheme",
+  "author": {
+    "name": "Codytheme",
+    "email": "Codytheme@null.com",
+    "url": "https://127.0.0.1:8089"
+  },
+  "resources": {
+    "css": "BB3O24r+LJ1B8qcjpvqgTcVaR/NQ71iC3zPxE1Dl1yIQTSUN8BfuHgiSK5ijJcqpSj/xWh6Ge9xC3Gqzr+n5DKpPA/2u7wj3L1/+Ug0Z4K80WPE/FR12thmPnEvq2OHVaplm4Ky2DJ/zYMoIVtHvGiVgp1I0lIUHdayqWW2+To5txp3sZXbhhJZDQN/neUHX9hgo/xO7ip72dWHAKGxNKTQC5ncKgOBCVdREaqQLY3PCBdrbVv6WOopzRTMhmOyKZG7pZnBTRFE+D5c99B22hFsyeu1MmmSnOGz2G5X+S0TA1jyMacbjSLCi9bO58Gc7/X9uMPCfl6JXppSf8QPA8g=="
+  },
+  "license": "MIT",
+  "url": "https://127.0.0.1:8089",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4JHWE6yjQN5eKgTcC+jFfMAGV6+Bzv5IQaQWMZhyfcIgKZycdhiNXFnMf3+C7916EABnTFJUBhpbOCsxVCO5vszobaydCRc1xHXdTy+pbARl1T12n/okvHZy2TOFwHD9I7Zn/NR/RbLkdj4lXldyo5+83SVvK/cVCYhiDR29Pf0+MJCc8KJnWLkkjC6E3QIODb9JAd6np3W/VmTliqd3ohRfvHgMDIyHn1v+LLsW6Mf9225MNOiWGoDc0UnPTJVPn3Wpv30fFdMfCYmTbhqPOB8jKrIKPuOUjmnNaSt1jbG/5NE5wmIuK8+flzjvBGk44H1BT0lqbIaOPKDERij5jQIDAQAB",
+  "theme": {
+    "name": "Codytheme",
+    "title": "Codytheme"
+  }
+}
